@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type= "text/css" href="style.css">
+		<div class="header"> 
+			<h1>SUŅI vai KAĶI</h1>
+		<h2>Kurš no šiem mājdzīvniekiem ir labāks?</h2>
+		</div>
+
+</head>
+<body>
+	<div class="container">
+	<ul>
+		<li class="element-wrap">
+			<div class="suns">
+				<h2 style="text-decoration:underline red 3px"> SUŅI</h2>
+				<div class="bs">
+					<ul> 
+					<li> Suns jeb mājas suns zināms arī kā cilvēka labākais draugs(Canis lupus familiaris) ir suņu dzimtas (Canidae) plēsējs, kas ir viena no pelēkā vilka (Canis lupus) pasugām.</li>
+					<li> Cilvēks pieradināja vienu no pelēkā vilka pasugām apmēram pirms apmēram 15 000 gadu Centrālāzijā.  </li>
+					<li> Zinātnieki uzskata, ka bez suņu palīdzības, kas vilka nartas, cilvēki nebūtu šķērsojuši Beringa jūras šaurumu. </li>
+					<li>Ilgo gadu laikā, ko suns pavadījis kopā ar cilvēku, tas ir attīstījis izcilas prāta spējas un spēju interaktīvi komunicēt ar cilvēku. </li>
+					<li> Šobrīd pasaulē ir apmēram 400 miljoni suņu.</li>
+					</ul>
+				</div>
+			</div>
+				<div class="kakis">
+					<h2 style="text-decoration:underline red 3px"> KAĶI</h2>
+					<div class="bk">
+						<ul>
+						<li> Mājas kaķis jeb kaķis (Felis silvestris catus) 	ir mazs, plēsīgs kaķu dzimtas zīdītājs, kurš pieradināts pirms vairāk nekā 9500 gadiem.</li>
+						<li> Saskaņā ar ģenētiskajiem pētījumiem, visi mājas kaķi ir domesticēti no meža kaķa pasugas Āfrikas savvaļas kaķa (Felis silvestris lybica).</li>
+						<li> Kaķiem var iemācīt izpildīt dažādas vienkāršas komandas.</li>
+						<li> Kaķi spēj iemācīties manipulēt ar dažādiem vienkāršiem mehānismiem, piemēram, tie māk atvērt durvis, izmantojot durvju rokturus.</li>
+						<li> Kopumā pasaulē ir aptuveni 600 miljoni kaķu.</li>
+						</ul>
+					</div>
+				</div>
+		</li>
+	
+	</ul>
+	</div>
+
+	<div>
+		<ul class="sub">
+			
+	<li><img src="suns1.jpg" alt="miligs suns" style="width:550px;vertical-align:middle"> </li>
+	<li><img src="suns2.jpg" alt="parsteigts suns" style="width:550px;vertical-align:middle"> </li>
+	<li><img src="giphy.gif" alt="suns ar brillem" style="width:550px;vertical-align:middle"> </li>
+	</ul>
+	</div>
+	<div>
+		<ul class="kab">
+		<li><img src="kakis1.jpg" alt="smuks kakis" style="width:550px;vertical-align:middle">	</li>
+		<li><img src="kakis2.jpg" alt="forss kakis" style="width:550px;vertical-align:middle"></li>
+		<li><img src="kakis.gif" alt="kakits" style="width:550px;vertical-align:middle">		</li>
+		</ul>
+	
+	
+	</div>
+	<div class="fixed-footer">
+        <div class="container">
+			<div>
+				<ul>
+					<li class="element-wrap">
+						<div class="b">Izveidoja Ģirts Zbitkovskis</div>
+					
+					<nav>
+					
+						<a href="file:///home/dace/Dokumenti/html/aptauja.html" target="_self"> Uz Aptauju &#8594 </a>
+					</nav>
+				</li>
+				</ul>
+			</div>
+        
+        </div>        
+    </div>
+</body>
+
+</html>
